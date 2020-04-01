@@ -116,6 +116,3 @@ def nyc_pigeon_organizer(data)
     return output_hash
 end
   
-  
-  
-end
